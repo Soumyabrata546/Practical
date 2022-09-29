@@ -1,6 +1,6 @@
 package PallabiMaam;
 
-
+//hierarchical inheritance
 class Vehicle3{//parent class A
 	void running() {
 		System.out.println("running mode is on");
